@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages
+## Pleiad Astronomy
+
+Welcome to the landing page of the Pleiad group for Astronomy research. 
+
+
+
 
 You can use the [editor on GitHub](https://github.com/pleiad-astronomy/pleiad-astronomy.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
