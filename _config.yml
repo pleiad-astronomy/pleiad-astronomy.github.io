@@ -30,7 +30,7 @@ twitter_username: PleiadAstronomy
 github_username:  pleiad-astronomy
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
