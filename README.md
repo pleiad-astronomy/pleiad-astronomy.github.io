@@ -2,9 +2,6 @@
 
 Welcome to the landing page of the Pleiad group for Astronomy research. 
 
-
-
-
 You can use the [editor on GitHub](https://github.com/pleiad-astronomy/pleiad-astronomy.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
