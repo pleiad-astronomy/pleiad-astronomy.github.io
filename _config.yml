@@ -19,20 +19,30 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Pleiad Astronomy
-email: pcoelho@usp.br
+#email: pcoelho@usp.br
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to the landing page of the Pleiad group for Astronomy research.
+  Welcome to the landing page of the Pleiad group for Astronomy research
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://pleiad-astronomy.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: PleiadAstronomy
-github_username:  pleiad-astronomy
+
+author:
+  social:
+    twitter: pleiadastronomy
+    github:  pleiad-astronomy
 
 # Build settings
-theme: jekyll-theme-cayman
+remote_theme: hydecorp/hydejack@v9.1.6
+#theme: jekyll-theme-hydejack #jekyll-theme-cayman
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
+  - jekyll-include-cache
 
 github: [metadata]
+
+# Configuring the theme
+accent_image: /assets/img/sidebar-bg.jpg
+#accent_color: rgb(79,177,186)
 
 # Exclude from processing.
 # The following items will not be processed, by default.
