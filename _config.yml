@@ -28,7 +28,7 @@ twitter_username: PleiadAstronomy
 github_username:  pleiad-astronomy
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
