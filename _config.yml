@@ -68,3 +68,5 @@ accent_color:   rgb(79,177,186)
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+theme: jekyll-theme-minimal
