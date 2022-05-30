@@ -31,8 +31,8 @@ author:
     github:     pleiad-astronomy
 
 # Build settings
-remote_theme:   hydecorp/hydejack@v9
-#theme: jekyll-theme-cayman
+#remote_theme:   hydecorp/hydejack@v9
+theme: jekyll-theme-minimal
 
 plugins:
   - jekyll-feed
@@ -69,4 +69,3 @@ accent_color:   rgb(79,177,186)
 #   - vendor/gems/
 #   - vendor/ruby/
 
-theme: jekyll-theme-minimal
